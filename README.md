@@ -1,5 +1,5 @@
 # Isaiah-Thomas-vs.-Kyrie-Irving-Report
-This is the repository for my Isaiah Thomas vs. Kyrie Irving report, which you can find [here](https://www.razeenahmad.com/portfolio). 
+This is the repository for my Isaiah Thomas vs. Kyrie Irving report, which you can find [here](https://github.com/razeen-ahmad/Personal-Website/blob/master/static/PDFfiles/Isaiah%20Thomas%20vs.%20Kyrie%20Irving%20Analysis.pdf). 
 It primarily contains the Jupyter Notebook where I generated all my charts.
 This was done using the Pandas data analysis library and matplotlib. This was the first time I used Pandas or matplotlib extensively on any project.
 
